@@ -1,2 +1,6 @@
-# PowerBI_Projects
- Power BI Projects via Cenk Sinangin
+![image](https://github.com/user-attachments/assets/16d3ad2d-0ab8-40cf-b95e-92af5dbbf286)
+![image](https://github.com/user-attachments/assets/219a4e21-1e1c-43c0-aeff-46c0429429a8)
+![image](https://github.com/user-attachments/assets/5b49a392-bd6e-4346-8594-81d759053b83)
+![image](https://github.com/user-attachments/assets/15dc5cc7-1fa2-4973-8ebe-b89c7776c7ac)
+![image](https://github.com/user-attachments/assets/6ee0b013-aa72-4df2-a680-a939fa753a13)
+![image](https://github.com/user-attachments/assets/611f6702-fb91-4944-b6b5-87b5e1c56514)
